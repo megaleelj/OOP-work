@@ -1,0 +1,11 @@
+Competitor Report
+
+Table of all competitors
+Player Number | Overall Score
+10 | 50.0
+
+Details of competitor with the highest overall score
+Player Number: 10
+Overall Score: 50.0
+Name: peter
+Age: 23
